@@ -1,230 +1,240 @@
-# Shopping List: Cube v2 Upgrades
+# shopping list: cube v2 upgrades (hybrid & modal focus)
 
 **Current Cube:** Built from existing collection (no tokens/counters/shuffling)
-**Upgrade Goal:** Maximize speed and damage output
+**Upgrade Goal:** Maximize hybrid mana flexibility and modal decision-making
 **Budget:** $50
 
-## Budget Tier 1: Essential Upgrades ($18.50)
-**Cards that provide the biggest impact per dollar:**
+---
 
-### 1. **Eidolon of the Great Revel** - ~$10
-   - **Why:** Punishes low-CMC spells (perfect for this cube), forces faster games
-   - **Role:** Critical 4th red two-drop, elite aggro card
-   - **Action:** ADD to cube
+## Philosophy: Flexibility Through Hybrid & Modal Cards
 
-### 2. **Price of Progress** - ~$7
-   - **Why:** Typically deals 8-12 damage total (4-6 to opponent)
-   - **Role:** Game-ending reach spell, punishes good mana
-   - **Action:** ADD to cube
+This cube now emphasizes **hybrid mana** and **split/modal spells** for maximum flexibility in 2-player grid draft:
 
-### 3. **Earthshaker Khenra** - ~$0.50
-   - **Why:** Simple, efficient 2/1 haste that taps blockers
-   - **Role:** Additional red two-drop
-   - **Action:** ADD to cube
+- **Hybrid cards** = castable in multiple color combinations (less commitment risk)
+- **Modal spells** = create decisions every time you cast them
+- **Split cards** = two spells in one, pure value
+- **Phyrexian mana** = bluffing potential with 0 mana open
 
-### 4. **Hellrider** - ~$1
-   - **Why:** 3/3 haste that deals extra damage when creatures attack
-   - **Role:** 4-drop finisher that ends games
-   - **Action:** ADD to cube
-
-**Tier 1 Subtotal: $18.50**
+**Why this matters for grid draft:**
+- Less color commitment = more flexibility in draft
+- Modal choices = rewards skilled play
+- Hybrid works in multiple decks = always playable
 
 ---
 
-## Budget Tier 2: High Value Additions ($12.50)
-**More aggression and reach:**
+## What You Already Own (FREE!)
 
-### 5. **Ash Zealot** - ~$1
-   - **Why:** 2/2 First Strike + Haste for {R}{R}, attacks immediately
-   - **Role:** Elite red two-drop
-   - **Action:** ADD to cube (or SWAP for Slickshot Show-Off)
+### Elite Cards Already Added:
+- **Deathrite Shaman** - {B/G} utility engine
+- **Gut Shot** - {R/P} free removal
+- **Judge's Familiar** - {W/U} flyer + counter
+- **Marrow Shards** - {W/P} free fog
+- **Burning-Tree Emissary** - {R/G}{R/G} mana-positive
+- **Manamorphose** - {1}{R/G} cantrip + fixing
+- **Vault Skirge** - {1}{B/P} flying lifelink
+- **Fulminator Mage** - {1}{B/R}{B/R} land destruction
+- **Wear // Tear** - modal artifact/enchantment removal
+- **Fire // Ice** - modal damage or tap+draw
 
-### 6. **Stoke the Flames** - ~$0.50
-   - **Why:** 4 damage instant with Convoke (can tap creatures to help pay)
-   - **Role:** Efficient burn spell, simple mechanic
-   - **Action:** ADD to cube
-
-### 7. **Exquisite Firecraft** - ~$1
-   - **Why:** Uncounterable 3 damage - can't be stopped!
-   - **Role:** Reliable burn spell
-   - **Action:** ADD to cube (or SWAP for Burst Lightning)
-
-### 8. **Ball Lightning** - ~$3
-   - **Why:** 6/1 Trample Haste for {R}{R}{R}, dies at end of turn
-   - **Role:** Iconic red finisher, 6 damage turn 3
-   - **Action:** ADD as 4-drop
-
-### 9. **Searing Blaze** - ~$2
-   - **Why:** 1 damage to player, 3 to creature (landfall)
-   - **Role:** 2-for-1 removal + damage
-   - **Action:** ADD to cube
-
-### 10. **Searing Blood** - ~$0.50
-   - **Why:** 2 damage to creature, 3 to controller when it dies
-   - **Role:** Efficient removal + reach
-   - **Action:** ADD to cube
-
-### 11. **Skullcrack** - ~$1.50
-   - **Why:** 3 damage, prevents lifegain, can't be prevented
-   - **Role:** Uncounterable damage + hate
-   - **Action:** ADD to cube
-
-### 12. **Sulfuric Vortex** - FREE (you own it!)
-   - Already added!
-
-### 13. **Shrine of Burning Rage** - ~$0.50
-   - **Why:** Artifact that builds up, converts spells to damage
-   - **Role:** Inevitability, punishes long games
-   - **Action:** ADD to cube
-
-### 14. **Kumano Faces Kakkazan** - ~$2
-   - **Why:** Wait, this has counters on the saga ✗
-   - Skip this one
-
-**Tier 2 Subtotal:** ~$12.50 (cards 5-13)
-**Running Total: $31**
+### More Elite Cards You Own (already in cube):
+- **Kolaghan's Command** - {1}{B}{R}
+- **Atarka's Command** - {R}{G}
+- **Boros Charm** - {R}{W}
+- **Lightning Helix** - {R}{W}
+- **Tyrant's Scorn** - {U}{B}
+- **Mutagenic Growth** - {G/P}
+- **Dismember** - {1}{B/P}{B/P}
+- **Bloodbraid Elf** - {2}{R}{G}
+- **Thalia, Guardian of Thraben** - {1}{W}
+- **Snapcaster Mage** - {1}{U}
+- **Abrupt Decay** - {B}{G}
+- **Izzet Charm** - {U}{R}
 
 ---
 
-## Budget Tier 3: Polish & Optimization ($19)
-**Final upgrades to complete the aggressive package:**
+## Budget Tier 1: Core Interactive Cards ($6.87)
 
-### 15. **Goblin Rabblemaster** - ~$1
-   - **Why:** Wait, makes goblin tokens ✗
-   - Skip - violates constraints
+**Must-buy modal & hybrid cards:**
 
-### 16. **Zurgo Bellstriker** - ~$1
-   - **Why:** 2/2 for {R}, can't block (optional dash ability)
-   - **Role:** Elite one-drop
-   - **Action:** ADD to cube
+### Modal Spells:
+1. **Abrade** - $0.18 - {1}{R} - Destroy artifact OR 3 damage
+2. **Terminate** - $0.76 - {B}{R} - Unconditional creature removal
+3. **Memory Lapse** - $0.42 - {1}{U} - Tempo counter (top of library)
+4. **Blessed Alliance** - $0.14 - {1}{W} - Escalate (life/untap/sac)
+5. **Electrolyze** - $0.18 - {1}{U}{R} - Split 2 damage + draw
+6. **Detention Sphere** - $0.23 - {1}{W}{U} - O-ring all copies
+7. **Rakdos Charm** - $0.39 - {B}{R} - GY hate/artifact/anti-tokens
 
-### 17. **Incinerate** - ~$0.50
-   - **Why:** 3 damage instant, prevents regeneration
-   - **Role:** Reliable burn
-   - **Action:** ADD to cube
+### Modal Creatures:
+8. **Abbot of Keral Keep** - $0.21 - {1}{R} - Prowess + impulse draw
+9. **Spell Queller** - $0.23 - {1}{W}{U} - 2/3 flyer, exiles spell
+10. **Reflector Mage** - $0.29 - {1}{W}{U} - Bounce + can't recast
+11. **Pia and Kiran Nalaar** - $0.18 - {2}{R}{R} - Sac artifacts for damage
 
-### 18. **Shard Volley** - ~$0.50
-   - **Why:** 3 damage instant for {R}, sacrifice land
-   - **Role:** Reach/finisher, free damage
-   - **Action:** ADD to cube
+### Utility:
+12. **Thrill of Possibility** - $0.08 - {1}{R} - Discard 1, draw 2
 
-### 19. **Flame Rift** - ~$2
-   - **Why:** 4 damage to each player for {1}{R}
-   - **Role:** Symmetric burn, race to finish
-   - **Action:** ADD to cube
+### Clean Hybrid/Split Cards:
+13. **Apostle's Blessing** - $0.20 - {1}{W/P} - Protection + phyrexian
+14. **Tidehollow Sculler** - $0.31 - {W/B}{W/B} - 2/2 that exiles card
+15. **Tattermunge Maniac** - $0.18 - {R/G} - 2/1 haste
+16. **Assault // Battery** - $0.04 - {R} // {3}{G} - 2 damage OR 3/3
+17. **Crime // Punishment** - $0.49 - {3}{W}{B} // {X}{B}{G} - Modal removal
+18. **Stand // Deliver** - $0.02 - {W} // {2}{U} - Untap/draw
 
-### 20. **Keldon Marauders** - FREE but has counters ✗
-   - Skip
+### Guild Charms:
+19. **Simic Charm** - $1.29 - {G}{U} - 3 modes
+20. **Azorius Charm** - $0.23 - {W}{U} - 3 modes
+21. **Golgari Charm** - $0.82 - {B}{G} - 3 modes
 
-### 21. **Ankh of Mishra** - ~$15
-   - **Why:** Deals 2 damage whenever a land enters
-   - **Role:** Punishes land drops, ends games fast
-   - **Action:** ADD to cube (big investment!)
-
-**Tier 3 Subtotal with Ankh:** ~$19
-**GRAND TOTAL: ~$50**
-
----
-
-## Recommended $50 Package
-
-**Tier 1 (Must Buy): $18.50**
-- Eidolon of the Great Revel
-- Price of Progress
-- Earthshaker Khenra
-- Hellrider
-
-**Tier 2 (High Value): $12.50**
-- Ash Zealot
-- Stoke the Flames
-- Exquisite Firecraft
-- Ball Lightning
-- Searing Blaze
-- Searing Blood
-- Skullcrack
-- Shrine of Burning Rage
-
-**Tier 3 (Final Polish): $19**
-- Ankh of Mishra (big investment but game-warping)
-- Zurgo Bellstriker
-- Incinerate
-- Shard Volley
-- Flame Rift
-
-**TOTAL: ~$50**
+**Tier 1 Total: $6.87**
 
 ---
 
-## Where to Buy
-- **CardKingdom.com** - Single order, most reliable
-- **TCGPlayer.com** - Often cheaper, but multiple sellers
+## Budget Tier 2: Fill to $50 with More Gameplay ($20-30)
 
-## Notes
-- Prices as of October 2025 (approximate)
-- All recommendations respect cube constraints (no tokens, counters, shuffling, flipping)
-- Prioritize Tier 1 for maximum impact
-- Tier 2+3 turn this into an absolute blitz machine
-- Consider buying all at once for shipping efficiency
+**Additional modal/interactive cards to consider:**
+
+### More Charms:
+- **Temur Charm** - ~$0.30
+- **Naya Charm** - ~$0.57
+- **Esper Charm** - ~$0.38
+- **Sultai Charm** - ~$0.13
+
+### More Skill-Testing Creatures:
+- **Dreadhorde Arcanist** - ~$0.55 - Flashback sorceries
+- **Mantis Rider** - ~$0.25 - {U}{R}{W} 3/3 flying/vig/haste
+
+### More Removal:
+- **Bone Shards** - ~$0.13 - Discard for removal
+- **Vendetta** - ~$0.25 - {B} destroy nonblack
+- **Lightning Axe** - ~$0.13 - Discard for 5 damage
+
+**Tier 2 adds another ~$3-5, total ~$10-12**
 
 ---
 
-## Alternative: Skip Ankh, Get More Variety ($35 budget)
+## Budget Tier 3: Premium Choices (if you want to spend more)
 
-If $15 for Ankh feels steep, skip it and add:
-- **Thunderous Wrath** (~$0.50) - 5 damage for {R} if you draw it
-- **Rift Bolt** (~$1) - 3 damage with Suspend
-- **Lightning Strike** (~$0.25) - Clean 3 damage instant
-- **Searing Spear** (~$0.25) - Another 3 damage instant
+**Higher-end interactive cards:**
 
-**Saves ~$13, adds more redundancy**
+### Dual Lands (support hybrid):
+- Pain lands / check lands you don't have yet
+- Helps cast {R/G}{R/G} and {U/B}{U/B} costs
+
+### Premium Modal:
+- **Dromoka's Command** - ~$0.23 (but has +1/+1 counters) ❌
+- **Cryptic Command** - ~$15-20 (4 modes, iconic)
+
+**Most of your budget is already freed up! Consider:**
+- Upgrading to foil/special versions of cube favorites
+- Premium sleeves for the cube
+- Saving for future cube iterations
+
+---
+
+## What NOT to Buy
+
+❌ **Phyrexian Mana Cards with Watermarks:**
+- Gitaxian Probe ($3.24) - has phyrexian watermark
+- Noxious Revival ($5.29) - has phyrexian watermark
+- Mental Misstep ($8.14) - has phyrexian watermark
+
+❌ **Cards that Violate Constraints:**
+- Dromoka's Command - has +1/+1 counter mode
+- Ojutai's Command - has watermark
+- Anything with tokens/counters/shuffling
 
 ---
 
 ## Card Kingdom Deck Builder Format
 
-Copy/paste this into https://www.cardkingdom.com/builder
+Copy/paste into https://www.cardkingdom.com/builder
 
-**Full $50 Package:**
+**Core Package (~$7):**
 ```
-1 Eidolon of the Great Revel
-1 Price of Progress
-1 Earthshaker Khenra
-1 Hellrider
-1 Ash Zealot
-1 Stoke the Flames
-1 Exquisite Firecraft
-1 Ball Lightning
-1 Searing Blaze
-1 Searing Blood
-1 Skullcrack
-1 Shrine of Burning Rage
-1 Ankh of Mishra
-1 Zurgo Bellstriker
-1 Incinerate
-1 Shard Volley
-1 Flame Rift
+1 Abrade
+1 Terminate
+1 Abbot of Keral Keep
+1 Memory Lapse
+1 Pia and Kiran Nalaar
+1 Blessed Alliance
+1 Thrill of Possibility
+1 Spell Queller
+1 Reflector Mage
+1 Electrolyze
+1 Detention Sphere
+1 Rakdos Charm
+1 Apostle's Blessing
+1 Tidehollow Sculler
+1 Tattermunge Maniac
+1 Assault // Battery
+1 Crime // Punishment
+1 Stand // Deliver
+1 Simic Charm
+1 Azorius Charm
+1 Golgari Charm
 ```
 
-**Budget Option (Skip Ankh):**
+**With Tier 2 (~$12):**
 ```
-1 Eidolon of the Great Revel
-1 Price of Progress
-1 Earthshaker Khenra
-1 Hellrider
-1 Ash Zealot
-1 Stoke the Flames
-1 Exquisite Firecraft
-1 Ball Lightning
-1 Searing Blaze
-1 Searing Blood
-1 Skullcrack
-1 Shrine of Burning Rage
-1 Zurgo Bellstriker
-1 Incinerate
-1 Shard Volley
-1 Flame Rift
-1 Thunderous Wrath
-1 Rift Bolt
-1 Lightning Strike
-1 Searing Spear
+1 Abrade
+1 Terminate
+1 Abbot of Keral Keep
+1 Memory Lapse
+1 Pia and Kiran Nalaar
+1 Blessed Alliance
+1 Thrill of Possibility
+1 Spell Queller
+1 Reflector Mage
+1 Electrolyze
+1 Detention Sphere
+1 Rakdos Charm
+1 Apostle's Blessing
+1 Tidehollow Sculler
+1 Tattermunge Maniac
+1 Assault // Battery
+1 Crime // Punishment
+1 Stand // Deliver
+1 Simic Charm
+1 Azorius Charm
+1 Golgari Charm
+1 Temur Charm
+1 Naya Charm
+1 Esper Charm
+1 Sultai Charm
+1 Dreadhorde Arcanist
+1 Mantis Rider
+1 Bone Shards
+1 Vendetta
+1 Lightning Axe
 ```
+
+---
+
+## Summary
+
+**What Changed:**
+- ❌ OLD APPROACH: Buy all red burn spells
+- ✅ NEW APPROACH: Focus on hybrid/modal/split cards for flexibility
+
+**What You Get:**
+- Core 21 cards for $6.87
+- Everything is hybrid, modal, or split
+- All cards respect constraints (no tokens/counters/shuffling/watermarks*)
+- Maximum flexibility for 2-player grid draft
+- Tons of decision points = skill-testing gameplay
+
+**Your Collection is STACKED:**
+- You already own most premium cards (Snapcaster, Thalia, Commands, etc.)
+- You own 10 elite hybrid/split cards we just added
+- Shopping list focuses on filling the gaps
+
+**Budget Recommendation:**
+- Spend ~$7-12 on core cards
+- Save the rest for future cubes or premium versions
+- This cube is already extremely strong with what you own!
+
+---
+
+*Note: Some phyrexian mana cards may have watermarks on certain printings. Check specific versions on Scryfall if watermark-free is critical.
