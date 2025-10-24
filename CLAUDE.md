@@ -2,20 +2,27 @@
 
 ## Project Vision
 
-This is a **production-grade intelligent Cube designer tool** that interviews Cube organizers and generates optimal, custom-tailored Magic: The Gathering Cube lists for specific game nights.
+This is a **collaborative Cube design assistant** where Claude and the Cube designer work together dynamically to build optimal, custom-tailored Magic: The Gathering Cube lists for specific game nights.
+
+### Design Philosophy
+
+This is NOT a scripted automation tool. It's a **dynamic collaboration** where:
+- Claude asks questions **ONE AT A TIME** during the design process
+- The human Cube designer guides the direction based on their vision
+- We build a **suite of tools** (like Scryfall search) that we use together
+- The "interview" IS the conversation between Claude and the designer
+- Think: pair programming for Cube design
 
 ### Current State
 - Basic MTG card search functionality via Scryfall API (foundation layer)
 - Simple CLI interface for card queries
 
 ### Target State
-- Interactive interview system that asks Cube designers about:
-  - Players attending that specific game night
-  - Player preferences, skill levels, and favorite archetypes
-  - Theme or format for the evening
-  - Size and complexity requirements
+- Suite of tools for exploring cards, archetypes, and synergies
+- Interactive, dynamic collaboration between Claude and designer
+- Card selection utilities based on various criteria
 - Output CubeCobra.com compatible decklists
-- Intelligent card selection based on interview responses
+- Smart queries leveraging Scryfall's advanced search syntax
 
 ## Core Principles
 
@@ -65,19 +72,52 @@ Balance all of these principles while keeping implementation simple:
 
 ## When Working on This Project
 
-1. **Prioritize the end goal**: Every change should move us toward the intelligent interview → optimized Cube output workflow
-2. **Think about the interview**: What questions would help design a great Cube for a specific group?
-3. **CubeCobra compatibility**: Keep the output format in mind as we build
-4. **Scryfall API mastery**: Leverage advanced search syntax and API features to find optimal cards
-5. **Real-world usage**: This runs at the command line before game nights - make it fast and reliable
+1. **Ask questions ONE AT A TIME**: Don't run automated interviews - have a natural conversation
+2. **Pick cards ONE AT A TIME**: When building the cube, propose one card, get approval/feedback, then move to the next
+3. **Build reusable tools**: Create utilities that we can use together during the design process
+4. **Dynamic collaboration**: Adapt based on the designer's responses, don't follow a script
+5. **CubeCobra compatibility**: Keep the output format in mind as we build
+6. **Scryfall API mastery**: Leverage advanced search syntax and API features to find optimal cards
+7. **Real-world usage**: Tools should be fast, reliable, and easy to use during actual Cube design sessions
 
-## Current Next Steps
+## Cube Building Workflow
 
-The path from "card search tool" to "Cube designer assistant" involves:
-1. Designing the interview question flow and logic
-2. Building card selection algorithms based on interview responses
-3. Implementing CubeCobra format export
-4. Creating a cohesive CLI experience that guides the user through the process
+When adding cards to the cube:
+1. Propose a single card with reasoning
+2. Wait for approval or feedback
+3. If approved: add it and move to next card
+4. If feedback: adjust criteria and propose alternative
+5. Keep context of what's already in the cube (color balance, curve, etc.)
+6. **REMEMBER CONSTRAINTS** - track and apply all restrictions given during the session
+
+### Cube Session Documentation
+
+**Each cube design session gets its own file in `/cubes/`** documenting:
+- Players & date
+- Design constraints (no flip cards, no counters, etc.)
+- Design goals (fast games, complexity level, etc.)
+- Preferences (themes, archetypes, etc.)
+- Card selections with reasoning
+- Rejected cards and why
+- Learnings for future reference
+
+**Current session:** See `cubes/eric_austin_nov2025.md`
+
+This allows:
+- Referencing past successful cube designs
+- Learning what worked well
+- Keeping CLAUDE.md general and reusable
+- Tracking design evolution over time
+
+## Tool Development Strategy
+
+Build modular tools for:
+- **Card search & filtering**: Advanced Scryfall queries based on various criteria
+- **Archetype analysis**: Find cards that support specific strategies
+- **Synergy detection**: Identify cards that work well together
+- **Power level balancing**: Ensure Cube has consistent power across colors/archetypes
+- **List management**: Add, remove, organize cards as we build
+- **CubeCobra export**: Output final list in compatible format
 
 ---
 

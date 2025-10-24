@@ -31,3 +31,6 @@ htmlcov/
 dist/
 build/
 *.egg-info/
+
+# Cube designer cache
+collection_cache.json

@@ -44,3 +44,8 @@ class ScryfallClient:
     def random_card(self) -> Dict[str, Any]:
         url = f"{self.BASE_URL}/cards/random"
         return self._request_with_retry(url)
+
+    def get_card_by_id(self, scryfall_id: str) -> Dict[str, Any]:
+        """Get a card by its Scryfall ID."""
+        url = f"{self.BASE_URL}/cards/{scryfall_id}"
+        return self._request_with_retry(url)
