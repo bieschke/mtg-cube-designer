@@ -26,8 +26,3 @@ Built from personal collection. Every card earns its slot.
 
 **Mana Base**: 28 untapped duals (painlands, checklands)
 **Colors**: Balanced 5-color support, hybrid bridges gaps
-
----
-
-**Cube Art Recommendation**: Lightning Bolt
-**Format Category**: Modern
