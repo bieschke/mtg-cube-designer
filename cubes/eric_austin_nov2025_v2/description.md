@@ -1,6 +1,6 @@
 # The Blitz Cube v2
 
-**134 cards | 2-player Grid Draft | Hybrid & Modal**
+**135 cards | 2-player Grid Draft | Hybrid & Modal**
 
 Fast, interactive games with flexible mana and meaningful choices. Every card counts.
 
