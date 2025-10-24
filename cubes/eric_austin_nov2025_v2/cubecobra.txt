@@ -1,6 +1,5 @@
 Adanto Vanguard
 Adarkar Wastes
-Arcane Signet
 Aspect of Hydra
 Atarka's Command
 Banishing Light
@@ -75,6 +74,7 @@ Lightning Bolt
 Lightning Helix
 Llanowar Elves
 Llanowar Wastes
+Lotus Petal
 Lovestruck Beast // Heart's Desire
 Mana Leak
 Manamorphose
