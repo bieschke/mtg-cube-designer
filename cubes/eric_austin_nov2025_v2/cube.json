@@ -28,7 +28,6 @@
     "Shineshadow Snarl",
     "Vineglimmer Snarl",
     "Choked Estuary",
-    "Sol Ring",
     "Mind Stone",
     "Dimir Signet",
     "Lightning Bolt",
@@ -132,9 +131,9 @@
     "Ghitu Lavarunner",
     "Gutterbones",
     "Dryad Militant",
-    "Figure of Destiny",
     "Baleful Strix",
-    "Steel Leaf Champion"
+    "Steel Leaf Champion",
+    "Faerie Seer"
   ],
-  "size": 135
+  "size": 134
 }
