@@ -13,9 +13,12 @@ from collection import Collection, Card
 class CubeBuilder:
     """Manages cube construction and exports."""
 
-    def __init__(self, collection: Collection, cube_file: str = "cubes/cube_list.json"):
+    def __init__(self, collection: Collection, cube_name: str = "my_cube", cube_dir: str = "cubes"):
         self.collection = collection
-        self.cube_file = Path(cube_file)
+        self.cube_name = cube_name
+        self.cube_dir = Path(cube_dir) / cube_name
+        self.cube_dir.mkdir(parents=True, exist_ok=True)
+        self.cube_file = self.cube_dir / "cube.json"
         self.cube_cards: List[Card] = []
         self._load_cube()
 
@@ -169,24 +172,27 @@ class CubeBuilder:
             type_short = card.type_line.split('—')[0].strip()
             print(f"{i:<4} {card.name:<40} {colors:<8} {card.mana_cost:<10} {type_short}")
 
-    def export_to_cubecobra(self, filename: str = "cubecobra_export.txt"):
+    def export_to_cubecobra(self, filename: str = "cubecobra.txt"):
         """Export cube list in CubeCobra format (one card name per line)."""
         if not self.cube_cards:
             print("Cube is empty!")
             return
 
-        with open(filename, 'w') as f:
+        output_path = self.cube_dir / filename
+        with open(output_path, 'w') as f:
             for card in sorted(self.cube_cards, key=lambda c: c.name):
                 f.write(f"{card.name}\n")
 
-        print(f"✓ Exported {len(self.cube_cards)} cards to {filename}")
+        print(f"✓ Exported {len(self.cube_cards)} cards to {output_path}")
         print(f"  Upload this file to CubeCobra.com")
 
 
 if __name__ == "__main__":
     # Example usage
     collection = Collection("/Users/eric/Downloads/Wudini Collection Export Oct 24 2025.csv")
-    builder = CubeBuilder(collection)
+
+    # Create a new cube or load existing one
+    builder = CubeBuilder(collection, cube_name="example_cube")
 
     # Show current stats
     builder.print_stats()
@@ -206,9 +212,6 @@ if __name__ == "__main__":
         "Mother of Runes",
         "Path to Exile",
 
-        # Blue tempo
-        "Delver of Secrets // Insectile Aberration",
-
         # Green ramp
         "Llanowar Elves",
         "Birds of Paradise",
@@ -219,3 +222,5 @@ if __name__ == "__main__":
 
     builder.add_cards(starter_cards)
     builder.print_stats()
+
+    print(f"\nCube saved to: {builder.cube_dir}")

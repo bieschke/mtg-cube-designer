@@ -55,7 +55,7 @@ Claude will:
 
 ### Example Session
 
-See [`cubes/eric_austin_nov2025.md`](cubes/eric_austin_nov2025.md) for a complete example of a cube design session.
+See [`cubes/eric_austin_nov2025/`](cubes/eric_austin_nov2025/) for a complete example of a cube design session.
 
 **That session resulted in:**
 - 135-card cube optimized for fast 2-player grid draft
@@ -89,13 +89,14 @@ Claude will:
 
 ### Files Created
 
-Each cube design session creates:
+Each cube design session creates a self-contained directory:
 
 ```
 cubes/
-  your_cube_name.md              # Design documentation
-  your_cube_name_cube.json       # Cube data (can reload later)
-  your_cube_name_cubecobra.txt   # Upload this to CubeCobra!
+  your_cube_name/
+    README.md         # Design documentation
+    cube.json         # Cube data (can reload later)
+    cubecobra.txt     # Upload this to CubeCobra!
 ```
 
 ## Tools Built

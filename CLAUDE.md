@@ -101,7 +101,7 @@ When adding cards to the cube:
 - Rejected cards and why
 - Learnings for future reference
 
-**Current session:** See `cubes/eric_austin_nov2025.md`
+**Current session:** See `cubes/eric_austin_nov2025/README.md`
 
 This allows:
 - Referencing past successful cube designs
