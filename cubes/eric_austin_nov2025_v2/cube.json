@@ -38,7 +38,6 @@
     "Goblin Bushwhacker",
     "Dragon's Rage Channeler",
     "Mother of Runes",
-    "Path to Exile",
     "Savannah Lions",
     "Dauntless Bodyguard",
     "Faerie Miscreant",
@@ -55,7 +54,6 @@
     "Adanto Vanguard",
     "Charming Prince",
     "Thalia, Guardian of Thraben",
-    "Knight of the White Orchid",
     "Snapcaster Mage",
     "Baral, Chief of Compliance",
     "Spellstutter Sprite",
@@ -68,7 +66,6 @@
     "Viashino Pyromancer",
     "Kiln Fiend",
     "Slickshot Show-Off",
-    "Barkhide Troll",
     "Satyr Wayfinder",
     "Masked Vandal",
     "Elvish Archers",
@@ -114,7 +111,6 @@
     "Unearth",
     "Titan's Strength",
     "Vines of Vastwood",
-    "Snakeskin Veil",
     "Aspect of Hydra",
     "Sulfuric Vortex",
     "Fireblast",
@@ -134,7 +130,11 @@
     "Fire // Ice",
     "Vault Skirge",
     "Fulminator Mage",
-    "Lotus Petal"
+    "Lotus Petal",
+    "Flinthoof Boar",
+    "Seasoned Hallowblade",
+    "Blossoming Defense",
+    "Cut Down"
   ],
   "size": 135
 }
