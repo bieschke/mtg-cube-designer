@@ -1,10 +1,14 @@
-# Eric & Austin November 2025 Cube
+# The Blitz Cube
+## Eric & Austin November 2025
 
 **Date:** October 24, 2025
 **Players:** Eric & Austin
 **Format:** 2-player Grid Draft
-**Target Size:** 135 cards
-**Session Goal:** Fast, fun games with minimal complexity
+**Size:** 135 cards
+**Goal:** Fast, fun games with minimal complexity
+
+**CubeCobra Art:** Lightning Bolt
+**Format Category:** Modern
 
 ## Design Parameters
 
