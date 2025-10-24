@@ -1,11 +1,11 @@
 # The Blitz Cube v2
 
-**135 cards | 2-player Grid Draft | Hybrid & Modal**
+**134 cards | 2-player Grid Draft | Hybrid & Modal**
 
 Fast, interactive games with flexible mana and meaningful choices. Every card counts.
 
 ## Stats
-- **17 hybrid/split cards** for flexible casting
+- **22 hybrid/split cards** for flexible casting
 - **12 modal spells** (Commands, Charms)
 - **6 phyrexian mana cards** for bluffing
 - Average CMC: ~1.8
